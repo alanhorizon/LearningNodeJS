@@ -1,0 +1,2 @@
+* todo
+** rewrite load_album.js with alternative implementations of load_album_list
